@@ -1,0 +1,4 @@
+function changeMessage() {
+    const messageDiv = document.getElementById("message");
+    messageDiv.innerHTML = "Hari ini adalah hari yang penuh tantangan, dan Babai tahu betapa kerasnya Eph berusaha untuk sampai di titik ini. sayank, Ujian sempro mungkin terasa menegangkan, tapi Babai percaya Eph sudah lebih dari siap untuk melewatinya. Sayank! Setiap langkah yang Eph ambil, setiap waktu yang Eph curahkan untuk belajar, semuanya tidak sia-sia. Babai bangga melihat kesemangatan EPh. Ingatlah, apapun hasilnya nanti, Eph sudah memberikan yang terbaik. Meskipun Babai ini tidak bisa membersamaimu dihari ini, di setiap detik perjalanan ini. Semoga segala usaha dan kerja keras Eph membuahkan hasil yang manis. Jangan lupa, banggakan orang tua dan calon suamimu ini wkwkwww!   LOVE YOU EPH!  #Baihaqi Ahmad";
+}
